@@ -2,19 +2,20 @@
 
 ## Introducción
 
-Mi nombre es Gonzalo Ulecia, y soy un apasionado programador. Mi interés por la ciberseguridad comenzó con una gran curiosidad, y tuve la oportunidad de profundizar en el campo gracias al programa Think TIC en La Rioja, España.
+Mi nombre es Gonzalo Ulecia y me encanta resolver problemas. A día de hoy ando metido de lleno en el papel de Arquitecto de Software. Como lenguajes de programación Go, Java, C++ y python.
 
 ## Educación
 
-Actualmente, estoy cursando la carrera de Ingeniería Informática en la Universidad de Burgos. Mi enfoque académico se centra en el desarrollo de aplicaciones.
+Actualmente, estoy cursando la carrera de Ingeniería Informática en la Universidad de Burgos. Mi enfoque académico se centra en la arquitectura software y desarrollo de microservicios y apirests.
 
 ## Habilidades
 
 ### Programación
 
-- Experto en Programación Orientada a Objetos (POO) 🌲
-- Dominio de lenguajes como Java, Python 
-- Habilidades de desarrollo web en HTML, CSS y JavaScript 
+- Python
+- Go
+- Java
+- C++
 
 ### Base de Datos
 
